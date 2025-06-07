@@ -1,10 +1,6 @@
 # EV Battery Adaptive Test Unit
 
-<p align="center">
-  <img src="images/project_banner.png" alt="EV Battery Adaptive Test Unit" width="100%" />
-</p>
-
-<h3 align="center"><i>Efficiently test, monitor, and predict the health of EV Lithium-ion batteries.</i></h3>
+### Efficiently test, monitor, and predict the health of EV Lithium-ion batteries.
 
 ---
 
